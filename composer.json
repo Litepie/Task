@@ -11,8 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "lavalite/framework": "~5.0"
+        "lavalite/framework": "~3.0"
     },
     "autoload": {
         "classmap": [
