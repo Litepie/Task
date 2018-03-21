@@ -1,9 +1,9 @@
 {
-    "name": "lavalite/task",
+    "name": "litepie/task",
     "description": "Task package for Lavalite",
     "keywords": ["lavalite", "task"],
     "license": "MIT",
-    "homepage": "https://github.com/Lavalite/Task",
+    "homepage": "https://github.com/Litepie/Task",
     "authors": [
         {
             "name": "Renfos Technologies Pvt. Ltd.",
@@ -19,7 +19,7 @@
             "database/seeds"
         ],
         "psr-4": { 
-            "Lavalite\\Task\\": "src" 
+            "Litepie\\Task\\": "src" 
         }
     }
 }
